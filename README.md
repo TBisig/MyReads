@@ -1,7 +1,5 @@
 # MyReads
 
-## TL;DR
-
 To get started:
 
 * install all project dependencies with `npm install`
