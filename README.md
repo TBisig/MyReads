@@ -2,7 +2,7 @@
 
 ## TL;DR
 
-To get started developing right away:
+To get started:
 
 * install all project dependencies with `npm install`
 * install the Router dependency with 'npm react-router-dom'
